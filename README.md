@@ -6,7 +6,7 @@ This data is downloaded from kaggle and it is actually derived from the Korea Sp
 
 <https://www.kaggle.com/datasets/kukuroo3/body-performance-data/data>
 
-data :
+data :   
 age : 20 ~64   
 gender : F,M   
 height_cm : (If you want to convert to feet, divide by 30.48)    
